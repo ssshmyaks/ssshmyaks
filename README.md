@@ -1,6 +1,5 @@
 <div align="center">
-  ssshmyaks
-  ~ Junior backend dev
+  ###### ssshmyaks
 </div>
 <div align="center">
   ~ Junior backend dev
