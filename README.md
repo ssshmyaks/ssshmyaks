@@ -25,10 +25,4 @@ I also work with SQLite3 databases.
 - [ ] Desktop app
 - [ ] Mobile app
 
-<div>
- <a href="https://discordapp.com/users/459228070671548418">
-    <img src="https://img.shields.io/badge/Discord-%20-blue?logo=discord&logoColor=red?style=plastic" alt="Discord Badge"/>
-  </a>
-</div>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ssshmyaks)](https://github.com/anuraghazra/github-readme-stats)
