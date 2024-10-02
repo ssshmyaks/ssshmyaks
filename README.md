@@ -25,4 +25,4 @@ I also work with SQLite3 databases.
 - [ ] Desktop app
 - [ ] Mobile app
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ssshmyaks)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ssshmyaks)](https://github.com/anuraghazra/github-readme-stats)
