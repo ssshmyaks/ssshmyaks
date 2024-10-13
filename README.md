@@ -12,6 +12,7 @@ I also work with SQLite3 databases.
 
 - [x] Python
 - [ ] PostgreSQL + SQLAlchemy
+- [ ] Django
 - [ ] Go
 - [ ] JavaScript
 - [ ] TypeScript
