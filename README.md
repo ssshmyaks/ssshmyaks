@@ -1,10 +1,5 @@
 ## Hi, I'm George
-I am a junior backend programmer. I specialize in writing:
-
-- Telegram bots
-- Parsers
-
-I also work with SQLite3 databases.
+I am a junior backend programmer.
 
 ****
 
@@ -13,11 +8,11 @@ I also work with SQLite3 databases.
 - [x] Python
 - [ ] PostgreSQL + SQLAlchemy
 - [ ] Django
+- [ ] Flutter
 - [ ] Go
 - [ ] JavaScript
 - [ ] TypeScript
 - [ ] Rust
-- [ ] Flutter
 
 ****
 
