@@ -6,18 +6,18 @@ I am a junior backend programmer.
 **Checklist**
 
 - [x] Python
-- [ ] PostgreSQL + SQLAlchemy
-- [ ] Django
+- [x] PostgreSQL + SQLAlchemy
+- [x] Django
 - [ ] Flutter
 - [ ] Go
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] TypeScript
 - [ ] Rust
 
 ****
 
 - [x] Telegram bot
-- [ ] Website backend
+- [x] Website backend
 - [ ] Desktop app
 - [ ] Mobile app
 
